@@ -1,0 +1,70 @@
+﻿@model IEnumerable<WebsiteBanHangs.Context.TaiKhoan>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Tài Khoản</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+           Họ Tên
+        </th>
+        <th>
+           Email
+        </th>
+        <th>
+            Mật khẩu
+        </th>
+        <th>
+          Số điện thoại
+        </th>
+        <th>
+           địa chỉ
+        </th>
+        <th>
+           Mã loại tài khoản
+        </th>
+        <th>
+           ngày tạo
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.HoTen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MatKhau)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SDT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DiaChi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaLoaiTK)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayTao)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaTK }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaTK }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaTK })
+        </td>
+    </tr>
+}
+
+</table>

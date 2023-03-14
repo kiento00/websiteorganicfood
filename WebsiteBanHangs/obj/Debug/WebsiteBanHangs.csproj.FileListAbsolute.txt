@@ -1,0 +1,265 @@
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.dll.config
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.pdb
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.exe
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.exe.config
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.rsp
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.exe
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.exe.config
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.rsp
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.AppContext.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Console.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.exe
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.exe.config
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.rsp
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\Antlr3.Runtime.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\Newtonsoft.Json.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Helpers.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Mvc.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Optimization.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Razor.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\WebGrease.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Helpers.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Mvc.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Optimization.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Razor.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\Newtonsoft.Json.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\Antlr3.Runtime.pdb
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.AssemblyReference.cache
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.CopyComplete
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.pdb
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\SendMail.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\WebsiteBanHangs\bin\SendMail.pdb
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.dll.config
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.pdb
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\SendMail.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\WebGrease.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\SendMail.pdb
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.CopyComplete
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.dll
+C:\Users\HP\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.pdb
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.dll.config
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\WebsiteBanHangs.pdb
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.exe
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.exe.config
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csc.rsp
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.exe
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.exe.config
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\csi.rsp
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.AppContext.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Console.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.exe
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.exe.config
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\vbc.rsp
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Antlr3.Runtime.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Newtonsoft.Json.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\SendMail.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Helpers.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Mvc.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Optimization.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Razor.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\WebGrease.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\SendMail.pdb
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Helpers.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Mvc.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Optimization.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.Razor.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Newtonsoft.Json.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Antlr3.Runtime.pdb
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.AssemblyReference.cache
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.csproj.CopyComplete
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\obj\Debug\WebsiteBanHangs.pdb
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\BotDetect.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\BotDetect.Web.Mvc.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Data.SQLite.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\System.Data.SQLite.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EPPlus.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EPPlus.Interfaces.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EPPlus.System.Drawing.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\EPPlus.xml
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\WebsiteBanHangs\bin\Microsoft.IO.RecyclableMemoryStream.xml

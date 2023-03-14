@@ -1,0 +1,155 @@
+﻿@model  WebsiteBanHangs.Context.SanPham
+@{
+    ViewBag.Title = "Details";
+}
+
+<!-- ========================= SECTION CONTENT ========================= -->
+<section class="section-content bg-white padding-y">
+    <div class="container">
+
+        <!-- ============================ ITEM DETAIL ======================== -->
+        <div class="row">
+            <aside class="col-md-6">
+                <div class="card">
+                    <article class="gallery-wrap">
+                        <div class="img-big-wrap">
+                            <div> <a href="#"><img src="@Model.Hinh"></a></div>
+                        </div> <!-- slider-product.// -->
+                        <div class="thumbs-wrap">
+
+
+                        </div> <!-- slider-nav.// -->
+                    </article> <!-- gallery-wrap .end// -->
+                </div> <!-- card.// -->
+            </aside>
+            <main class="col-md-6">
+                <article class="product-info-aside">
+
+                    <h2 class="title mt-3">@Model.TenSP </h2>
+
+                    <div class="rating-wrap my-3">
+                        <ul class="rating-stars">
+                            <li style="width:80%" class="stars-active">
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </li>
+                            <li>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </li>
+                        </ul>
+                        <small class="label-rating text-muted">132 reviews</small>
+                        <small class="label-rating text-success"> <i class="fa fa-clipboard-check"></i> 154 orders </small>
+                    </div> <!-- rating-wrap.// -->
+
+                    <div class="mb-3">
+                        <var class="price h4">@String.Format("{0:0,0}", Model.GiaBan)</var>
+                        <span class="text-muted">VND</span>
+                    </div> <!-- price-detail-wrap .// -->
+
+                    <p>
+                        @Model.MoTa1
+                    </p>
+
+
+                    @*<dl class="row">
+                            <dt class="col-sm-3">Manufacturer</dt>
+                            <dd class="col-sm-9"><a href="#">Great textile Ltd.</a></dd>
+
+                            <dt class="col-sm-3">Article number</dt>
+                            <dd class="col-sm-9">596 065</dd>
+
+                            <dt class="col-sm-3">Guarantee</dt>
+                            <dd class="col-sm-9">2 year</dd>
+
+                            <dt class="col-sm-3">Delivery time</dt>
+                            <dd class="col-sm-9">3-4 days</dd>
+
+                            <dt class="col-sm-3">Availabilty</dt>
+                            <dd class="col-sm-9">in Stock</dd>
+                        </dl>*@
+
+                    <div class="form-row  mt-4">
+                        <div class="form-group col-md flex-grow-0">
+                            <div class="input-group mb-3 input-spinner">
+                                <div class="input-group-prepend">
+                                    <button class="btn btn-light" type="button" id="button-plus"> + </button>
+                                </div>
+                                <input type="text" class="form-control" value="1">
+                                <div class="input-group-append">
+                                    <button class="btn btn-light" type="button" id="button-minus"> &minus; </button>
+                                </div>
+                            </div>
+                        </div> <!-- col.// -->
+                        <div class="form-group col-md">
+                            <a href="@Url.Action("ThemGioHang", "GioHang",
+new { @Id = Model.MaSP, @strURL = Request.Url.ToString() })" class="btn  btn-primary">
+                                <i class="fas fa-shopping-cart"></i> <span class="text">thêm</span>
+                            </a>
+                            <a href="@Url.Action("Index","Home")" class="btn btn-light">
+                                <i class="fas fa-back"></i> <span class="text">Quay lại</span>
+                            </a>
+                        </div> <!-- col.// -->
+                    </div> <!-- row.// -->
+
+                </article> <!-- product-info-aside .// -->
+            </main> <!-- col.// -->
+        </div> <!-- row.// -->
+        <!-- ================ ITEM DETAIL END .// ================= -->
+
+
+    </div> <!-- container .//  -->
+</section>
+<!-- ========================= SECTION CONTENT END// ========================= -->
+<!-- ========================= SECTION  ========================= -->
+<section class="section-name padding-y bg">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-8">
+                <h5 class="title-description">mổ tả đầy đủ</h5>
+                <p>
+                    @Model.MoTa2
+                </p>
+                <ul class="list-check">
+                    @*<li>Material: Stainless steel</li>
+                        <li>Weight: 82kg</li>
+                        <li>built-in drip tray</li>
+                        <li>Open base for pots and pans</li>
+                        <li>On request available in propane execution</li>*@
+                </ul>
+
+
+            </div> <!-- col.// -->
+
+        </div> <!-- row.// -->
+
+    </div> <!-- container .//  -->
+</section>
+<!-- ========================= SECTION CONTENT END// ========================= -->
+<!-- ========================= SECTION SUBSCRIBE  ========================= -->
+<section class="padding-y-lg bg-light border-top">
+    <div class="container">
+
+        <p class="pb-2 text-center">Delivering the latest product trends and industry news straight to your inbox</p>
+
+        <div class="row justify-content-md-center">
+            <div class="col-lg-4 col-sm-6">
+                <form class="form-row">
+                    <div class="col-8">
+                        <input class="form-control" placeholder="Your Email" type="email">
+                    </div> <!-- col.// -->
+                    <div class="col-4">
+                        <button type="submit" class="btn btn-block btn-warning"> <i class="fa fa-envelope"></i> Subscribe </button>
+                    </div> <!-- col.// -->
+                </form>
+                <small class="form-text">We’ll never share your email address with a third-party. </small>
+            </div> <!-- col-md-6.// -->
+        </div>
+
+
+    </div>
+</section>
+<!-- ========================= SECTION SUBSCRIBE END// ========================= -->

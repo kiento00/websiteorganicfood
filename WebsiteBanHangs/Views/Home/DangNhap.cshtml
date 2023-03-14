@@ -1,0 +1,47 @@
+﻿@model WebsiteBanHangs.Context.TaiKhoan
+@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@using (Html.BeginForm("DangNhap", "Home", FormMethod.Post))
+{
+    <section class="section-conten padding-y" style="min-height:84vh">
+
+        <!-- ============================ COMPONENT LOGIN   ================================= -->
+        <div class="card mx-auto" style="max-width: 380px; margin-top:100px;">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Đăng nhập</h4> @ViewBag.ThongBao
+                <form>
+                    <a href="#" class="btn btn-facebook btn-block mb-2"> <i class="fab fa-facebook-f"></i> &nbsp  Sign in with Facebook</a>
+                    <a href="#" class="btn btn-google btn-block mb-4"> <i class="fab fa-google"></i> &nbsp  Sign in with Google</a>
+                    <div class="form-group">
+                        <input name="Email" class="form-control" placeholder="Email" type="text" @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @autofocus = "autoforcus" })
+                    </div> <!-- form-group// -->
+                    <div class="form-group">
+                        <input name="MatKhau" class="form-control" placeholder="Password" type="password" @Html.TextBoxFor(model => model.MatKhau, new { @class = "form-control", @autofocus = "autoforcus" })
+                    </div> <!-- form-group// -->
+
+                    <div class="form-group">
+                        <a href="#" class="float-right">Quên mật khẩu</a>
+                        <label class="float-left custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" checked=""> <div class="custom-control-label"> Remember </div> </label>
+                    </div> <!-- form-group form-check .// -->
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary btn-block"> đăng nhập  </button>
+                    </div> <!-- form-group// -->
+                </form>
+            </div> <!-- card-body.// -->
+        </div> <!-- card .// -->
+
+        <p class="text-center mt-4">Bạn có tài khoản chưa? <a href="@Url.Action("DangKy","Home")">Đăng Kí</a></p>
+        <br><br>
+        <!-- ============================ COMPONENT LOGIN  END.// ================================= -->
+
+
+
+    </section>
+}
+
+<!-- ========================= SECTION CONTENT END// ========================= -->

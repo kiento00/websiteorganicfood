@@ -1,0 +1,12 @@
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\SendMail\bin\Debug\SendMail.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\SendMail\bin\Debug\SendMail.pdb
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\SendMail\obj\Debug\SendMail.csproj.AssemblyReference.cache
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\SendMail\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\SendMail\obj\Debug\SendMail.dll
+C:\Users\DELL 7490\source\repos\WebsiteBanHangs\SendMail\obj\Debug\SendMail.pdb
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\SendMail\bin\Debug\SendMail.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\SendMail\bin\Debug\SendMail.pdb
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\SendMail\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\SendMail\obj\Debug\SendMail.dll
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\SendMail\obj\Debug\SendMail.pdb
+C:\Users\DELL 7490\Desktop\WebsiteBanHangs\SendMail\obj\Debug\SendMail.csproj.AssemblyReference.cache
